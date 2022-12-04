@@ -1,0 +1,16 @@
+{
+  "name": "daniel.sousa/php_testes_automatizados",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Daniel Sousa",
+      "email": "danieldeivedson2018@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
